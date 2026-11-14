@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Jeremiah 👋
 
-<!--
-**jeremiahpetion03/jeremiahpetion03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software engineer based in New York, with a B.S. in Computer Programming & Information Systems from Farmingdale State College. I build across the stack, from React front ends to Node.js APIs, databases, and lower-level systems, and I care a lot about testing: proving code is correct, not just assuming it is. I've also worked in AI training, evaluating model output against strict rubrics.
 
-Here are some ideas to get you started:
+**Languages:** TypeScript · JavaScript · Python · Java · Rust · C++ · SQL
+**Tools:** React · Node.js · Next.js · PostgreSQL · SQLite · Prisma · Playwright · pytest · Docker · GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Lanes**](https://github.com/jeremiahpetion03/lanes) | Real-time collaborative Kanban board with auth, permissions, drag-and-drop, and live multi-user sync | React, TypeScript, Node.js, SQLite |
+| [**Waypoint**](https://github.com/jeremiahpetion03/waypoint) | Route planner implementing Dijkstra, A\*, bidirectional search, and Traveling Salesman solvers, cross-checked against brute force | Python |
+| [**ferrodb**](https://github.com/jeremiahpetion03/ferrodb) | Multi-threaded, Redis-compatible database with crash-safe persistence; works with standard Redis tools | Rust |
+
+Each project has a README covering its design decisions, plus automated tests that run on every push.
+
+📫 jeremiahpetion03@gmail.com
