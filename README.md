@@ -1,6 +1,6 @@
 ### Hi, I'm Jeremiah 👋
 
-Full-stack software engineer based in New York, with a B.S. in Computer Programming & Information Systems from Farmingdale State College. I build across the stack, from React front ends to Node.js APIs, databases, and lower-level systems, and I care a lot about testing: proving code is correct, not just assuming it is. I've also worked in AI training, evaluating model output against strict rubrics.
+Full-stack software engineer based in New York, with a B.S. in Computer Programming & Information Systems from Farmingdale State College. I build across the stack, from React front ends to Node.js APIs, databases, and lower-level systems, and my one of my biggest priorities is testing: proving code is correct, not just assuming it is. I've also worked in AI training, evaluating model output against strict rubrics.
 
 **Languages:** TypeScript · JavaScript · Python · Java · Rust · C++ · SQL
 **Tools:** React · Node.js · Next.js · PostgreSQL · SQLite · Prisma · Playwright · pytest · Docker · GitHub Actions
